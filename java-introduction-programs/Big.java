@@ -1,4 +1,3 @@
-package com.java.nag;
 
 class Big {
 	public static void main(String[] args) {
