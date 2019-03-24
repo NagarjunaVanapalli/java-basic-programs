@@ -2,6 +2,7 @@
 import java.util.Arrays;
 
 class MatchingArray {
+
 	public static void main(String[] args) {
 
 		int[] firstArray = new int[2];
@@ -20,4 +21,5 @@ class MatchingArray {
 			System.out.println("difference");
 
 	}
+
 }
